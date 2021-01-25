@@ -1,6 +1,6 @@
-# mvvm_providerarchi_starter
+# flutter_mvvm_starter
 
-MVVM ProviderArchitecture Starter
+Flutter MVVM Starter
 
 ## Notes / References
 
