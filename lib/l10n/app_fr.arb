@@ -1,0 +1,8 @@
+{
+  "appTitle" : "App Demo Flutter",
+  "push": "Vous avez appuyez sur ce bouton ce nombre de fois",
+  "gotoRecap": "Aller à l'écran recap",
+  "goback": "Retour",
+  "homePageTitle": "Écran d'accueil",
+  "recapPageTitle": "Écran Recap"
+}

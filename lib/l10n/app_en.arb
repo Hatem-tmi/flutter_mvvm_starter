@@ -1,0 +1,15 @@
+{
+  "appTitle" : "Flutter Demo App",
+  "@appTitle" : {},
+  "push": "You have pushed the button this many times",
+  "@push": {},
+  "gotoRecap": "Go to recap screen",
+  "@gotoRecap": {},
+  "goback": "Go back",
+  "@goback": {},
+
+  "homePageTitle": "Home screen",
+  "@homePageTitle": {},
+  "recapPageTitle": "Recap screen",
+  "@recapPageTitle": {}
+}
